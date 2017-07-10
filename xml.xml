@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfoo:test xmlns:xfoo="http://www.example.com/XFoo">This is the root element!</xfoo:test>
+<Cliente nombre="daniel"><productos><producto precio="55" cantidad="2" importe="110" atributoNodo="valor"/></productos></Cliente>

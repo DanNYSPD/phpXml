@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Comprobante xmlns="http://www.sat.gob.mx/cfd/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance"><Emisor rfc="sasa" nombre="jan"><DomicilioFiscal calle="alguna"/></Emisor></Comprobante>
